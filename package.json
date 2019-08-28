@@ -1,6 +1,6 @@
 {
   "name": "has-working-bind-x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Indicates if the engine has a working bind function.",
   "homepage": "https://github.com/Xotic750/has-working-bind-x",
   "author": {
@@ -51,7 +51,7 @@
     "url": "https://github.com/Xotic750/has-working-bind-x/issues"
   },
   "dependencies": {
-    "noop-x": "^1.2.0"
+    "noop-x": "^1.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",

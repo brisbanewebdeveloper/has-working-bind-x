@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-28T14:37:15.200Z",
+  "date": "2019-08-28T16:29:05.336Z",
   "describe": "",
   "description": "Indicates if the engine has a working bind function.",
   "file": "has-working-bind-x.js",
   "hash": "55b02b7d0e6d359717dc",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
