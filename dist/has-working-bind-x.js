@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-30T21:11:20.392Z",
+  "date": "2019-09-04T22:16:09.125Z",
   "describe": "",
   "description": "Indicates if the engine has a working bind function.",
   "file": "has-working-bind-x.js",
